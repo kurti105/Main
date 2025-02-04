@@ -1,0 +1,9 @@
+torch
+transformers
+pandas
+numpy
+torchmetrics
+s3fs
+scikit-learn
+torchinfo
+tqdm
